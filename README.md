@@ -81,5 +81,5 @@ Repositorio
 
 https://github.com/Gianbackend/mysql-redis-cache-demo
 
-<img width="1429" height="1030" alt="image" src="https://github.com/user-attachments/assets/41528677-370a-4084-95f3-9e1672c31fb5" />
+
 
